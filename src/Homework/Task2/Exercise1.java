@@ -1,4 +1,4 @@
-package Homework;
+package Homework.Task2;
 
 import java.util.Map;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Arrays;
 
-public class Exercise2 {
+public class Exercise1 {
 
     public static final int kInputLimit = 3;
 

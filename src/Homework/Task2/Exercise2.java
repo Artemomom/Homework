@@ -1,10 +1,10 @@
-package Homework;
+package Homework.Task2;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Exercise3 {
+public class Exercise2 {
     static float a, b, c;
     static float d;
     static double x1, x2;

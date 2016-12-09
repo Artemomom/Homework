@@ -1,4 +1,4 @@
-package Homework;
+package Homework.Task1;
 
 public class Exercise1 {
 
@@ -63,7 +63,7 @@ public class Exercise1 {
                     {"Anya","Petya","Olya","Sasha"},
                     {"QA","Dev","BA","PM"}
             };
-            //System.out.printf("Name: %s  Job: %s  Age: %d years \n", NameandJob[0][3], NameandJob[1][3], Age[4]); - doesn't worked
+            //System.out.printf("Name: %s  Job: %s  Age: %d years \n", NameandJob[0][3], NameandJob[1][3], Age[3]); - doesn't worked
             System.out.println("Name: "+NameandJob[0][3] +"; Job: "+NameandJob[1][3] +"; Age: "+Age[2]);
             System.out.println("Name: "+NameandJob[0][2] +"; Job: "+NameandJob[1][1] +"; Age: "+Age[3]);
             System.out.println("Name: "+NameandJob[0][0] +"; Job: "+NameandJob[1][0] +"; Age: "+Age[1]);
